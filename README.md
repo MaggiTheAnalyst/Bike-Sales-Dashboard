@@ -49,3 +49,15 @@ The Bike Sales Company aims to develop an interactive and comprehensive dashboar
 ## Dashboard
 
 ![Bike Sales Dashboard](https://github.com/user-attachments/assets/7a9ff7a7-607e-4038-9d46-eaed7715042d)
+
+## Project Insight
+
+- Higher Income Leads to More Bike Purchases – Customers with higher incomes, especially females, are more likely to buy bikes, suggesting premium bike options can be targeted at this group.
+- Commute Distance Affects Buying Behavior – People traveling 1-2 miles are the most frequent buyers, meaning bikes can be marketed as a short-distance commuting solution.
+- Middle-Aged Customers Buy More Bikes – Older age groups show lower purchase rates, indicating an opportunity to introduce senior-friendly or electric bike options.
+- Regional & Marital Status Influence Sales – Certain regions have higher sales, and single individuals are more likely to buy bikes, highlighting areas for targeted promotions.
+- Opportunities for Business Growth – The company can offer installment plans, expand marketing, promote commuting benefits, and introduce discounts to boost bike sales.
+
+## Final Conclusion
+
+The Bike Sales Dashboard shows that higher-income individuals and middle-aged customers are the primary bike buyers. Short-distance commuters (1-2 miles) are more likely to purchase bikes, highlighting the need for targeted marketing. Single individuals and certain regions show higher sales, presenting opportunities for localized promotions. To boost sales, the company can offer installment plans, commuting-focused campaigns, and senior-friendly options. Implementing these insights will help increase revenue, improve customer engagement, and drive business growth
